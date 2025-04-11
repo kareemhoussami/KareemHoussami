@@ -2,7 +2,7 @@
 
 📍 **Based in** Beirut, Lebanon  
 💻 **Computer Science Student** | **AWS Cloud & Cybersecurity Enthusiast**  
-🌱 **Currently learning:** AWS Cloud, Cybersecurity  
+🌱 **Currently learning:** AWS Cloud & Cybersecurity  
 
 ---
 
